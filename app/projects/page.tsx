@@ -7,7 +7,7 @@ const projects = [
       "A searchable and filterable list of coffee products. Built to practice responsive UI and component reuse.",
     tech: ["React", "TypeScript", "TailwindCSS"],
     github: "https://github.com/haroon-code-hub/coffee-listing",
-    live: "", // optional: Vercel/Netlify live link
+    live: "https://haroon-code-hub.github.io/coffee-listing/",
   },
   {
     title: "Sprout Scribble (In Progress)",
@@ -15,7 +15,15 @@ const projects = [
       "A full-stack Next.js app built to learn backend concepts while managing content and user data.",
     tech: ["Next.js", "TypeScript", "TailwindCSS", "Directus"],
     github: "https://github.com/haroon-code-hub/sprout-scribble",
-    live: "", // optional
+    live: "",
+  },
+  {
+    title: "Portfolio Website",
+    description:
+      "My personal developer portfolio built using Next.js App Router, TailwindCSS, and TypeScript. Includes dark mode, project cards, and tested components.",
+    tech: ["Next.js", "TypeScript", "TailwindCSS", "React Testing Library"],
+    github: "https://github.com/haroon-code-hub/my-portfolio",
+    live: "https://your-vercel-or-netlify-link.com",
   },
 ];
 

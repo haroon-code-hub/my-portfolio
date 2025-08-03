@@ -14,6 +14,9 @@ export default function RootLayout({
       <body className="bg-white text-black dark:bg-zinc-900 dark:text-white">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <Navbar />
+          <div className="bg-yellow-100 dark:bg-yellow-900 text-yellow-700 dark:text-yellow-300 text-sm text-center py-2">
+            🚧 This portfolio is work in progress. More updates coming soon!
+          </div>
           <main className="p-6 max-w-4xl mx-auto">{children}</main>
         </ThemeProvider>
       </body>
