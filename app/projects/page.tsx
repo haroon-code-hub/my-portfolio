@@ -23,7 +23,7 @@ const projects = [
       "My personal developer portfolio built using Next.js App Router, TailwindCSS, and TypeScript. Includes dark mode, project cards, and tested components.",
     tech: ["Next.js", "TypeScript", "TailwindCSS", "React Testing Library"],
     github: "https://github.com/haroon-code-hub/my-portfolio",
-    live: "https://your-vercel-or-netlify-link.com",
+    live: "https://my-portfolio-eosin-psi-34.vercel.app/",
   },
 ];
 
