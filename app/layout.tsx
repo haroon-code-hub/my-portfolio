@@ -1,6 +1,7 @@
 import { ThemeProvider } from "next-themes";
 import Navbar from "@/components/Navbar";
 import "./globals.css";
+import Footer from "@/components/Footer";
 
 export const metadata = {
   title: "Haroon Saeed | Frontend Developer",
@@ -55,6 +56,7 @@ export default function RootLayout({
             🚧 This portfolio is work in progress. More updates coming soon!
           </div>
           <main className="p-6 max-w-4xl mx-auto">{children}</main>
+          <Footer />
         </ThemeProvider>
       </body>
     </html>
