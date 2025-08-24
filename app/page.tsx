@@ -23,12 +23,15 @@ export default function Home() {
         </p>
       </div>
 
-      <p className="max-w-xl text-zinc-800 dark:text-zinc-200">
-        Frontend Developer with 2 years of experience building responsive,
-        scalable applications using React, Next.js, and TypeScript. Strong in UI
-        development, component libraries, and performance optimization.
-        Currently expanding into backend tools to become a more versatile
-        contributor.
+      <p className="max-w-xl text-textLight dark:text-textDark leading-relaxed">
+        I'm Haroon Saeed, a Frontend Developer with around 3 years of experience
+        building responsive, scalable, and accessible web applications. I
+        specialize in React, Next.js, TypeScript, and TailwindCSS, and I enjoy
+        crafting clean, performant interfaces that improve user experiences.
+        Currently based in Fürstenfeldbruck, Germany, I'm passionate about
+        learning, collaboration, and delivering reliable solutions in agile
+        teams. I'm actively seeking new opportunities where I can grow and
+        contribute to impactful products.
       </p>
 
       <p className="text-sm text-zinc-600 dark:text-zinc-400">
