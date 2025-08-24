@@ -1,3 +1,4 @@
+import ContactForm from "@/components/ContactForm";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export default function Contact() {
@@ -36,6 +37,7 @@ export default function Contact() {
           <FaLinkedin size={28} />
         </a>
       </div>
+      <ContactForm />
     </section>
   );
 }
