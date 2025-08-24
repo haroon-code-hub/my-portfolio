@@ -34,6 +34,12 @@ export default function Home() {
           reliable solutions in agile teams. I'm actively seeking new
           opportunities where I can grow and contribute to impactful products.
         </p>
+        <a
+          href="/contact"
+          className="inline-block bg-gradient-to-r from-primary to-primary-dark hover:opacity-90 font-semibold tracking-wide px-6 py-3 rounded-lg shadow-md hover:shadow-lg transition-all duration-300"
+        >
+          Get in Touch
+        </a>
 
         <p className="text-sm text-zinc-600 dark:text-zinc-400">
           📍 Fürstenfeldbruck, Germany
